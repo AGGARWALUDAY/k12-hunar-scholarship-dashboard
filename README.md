@@ -4,6 +4,10 @@ A frontend scholarship management dashboard built for the K12 Hunar Frontend Dev
 
 The application allows users to view, filter, add, edit, update the status of, and preview scholarship records through a simple dashboard interface.
 
+**Live Demo:** [Scholarship Dashboard](YOUR_VERCEL_URL)
+
+![Scholarship Dashboard Preview](./public/dashboard-preview.png)
+
 ## Features
 
 - Dashboard summary showing:
